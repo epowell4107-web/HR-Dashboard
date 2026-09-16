@@ -1,0 +1,1 @@
+Open the file and give it to your preferred LLM (ChatGPT, Claude, Ollama, etc.). Ask it to grill you on what information is needed to fill out the dashboard or you can go ahead and supply it with reports and data. 
